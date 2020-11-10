@@ -1,0 +1,1 @@
+[null,{"name":"Gra","temp":"","event-type":"3","_id":"VjeQm","actions":[{"gameName":"Wersja: v1.1","gameLink":"","name":"Set Bot Game"},{"time":"30","measurement":"1","name":"Wait"},{"gameName":"&komendy","gameLink":"","name":"Set Bot Game"},{"time":"30","measurement":"1","name":"Wait"},{"gameName":"Witaj!","gameLink":"","name":"Set Bot Game"}]}]
